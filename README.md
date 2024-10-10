@@ -8,7 +8,7 @@ I haven't been learning code for long at all. This is more of a recent hobby tha
 
 * 🌍  I'm based in Sweden
 * ✉️  You can contact me at [imrantzaga@gmail.com](mailto:imrantzaga@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning Java
 
 <a href="https://www.twitch.tv/Tzagaa" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/Tzagaa?logo=twitchsx&style=for-the-badge&color=6366f1&labelColor=181824&label=TWITCH+STATUS" /></a>
