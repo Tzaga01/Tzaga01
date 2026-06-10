@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tzaga
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Imran
 ===================================================================================================================================
 
-Aspiring Programmer
+Programmer
 -------------------
 
 I am a computer engineer specializing in software development, with a strong academic foundation in web development, object-oriented design, and software engineering. 
