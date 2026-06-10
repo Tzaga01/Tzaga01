@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Programmer
 -------------------
 
-I haven't been learning code for long at all. This is more of a recent hobby that I've wanted to pick up. I decided to start with Python as I've seen a lot of people saying its the easiest language to start off with. For now I just want to learn the basics and maybe later down the line start with some Front End Developing since I'm interested in the creative part of it.
+I am a computer engineer specializing in software development, with a strong academic foundation in web development, object-oriented design, and software engineering. 
+My studies has been focused on building secure, scalable fullstack applications, and my thesis explores vulnerability management in modern Java frameworks. Through hands-on projects I have gained practical experience with Java, Spring Boot, React, and agile methodologies, always emphasizing clean code and robust architecture. I am eager to apply my education to real-world challenges, keep learning new technologies, and contribute to teams that value quality, security, and continuous improvement.
 
 * 🌍  I'm based in Sweden
 * ✉️  You can contact me at [imrantzaga@gmail.com](mailto:imrantzaga@gmail.com)
@@ -24,6 +25,6 @@ src="https://img.shields.io/twitch/status/Tzagaa?logo=twitchsx&style=for-the-bad
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Tzaga01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Tzagaaa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/Tzagaa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Tzaga01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 ### Badges
