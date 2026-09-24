@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Programmer
 -------------------
 
-I am a computer engineer specializing in software development, with a strong academic foundation in web development, object-oriented design, and software engineering. 
+I am a computer engineer specializing in software development, with a strong foundation in web development, object-oriented design, and software engineering. 
 My studies has been focused on building secure, scalable fullstack applications, and my thesis explores vulnerability management in modern Java frameworks. Through hands-on projects I have gained practical experience with Java, Spring Boot, React, and agile methodologies, always emphasizing clean code and robust architecture. I am eager to apply my education to real-world challenges, keep learning new technologies, and contribute to teams that value quality, security, and continuous improvement.
 
 * 🌍  I'm based in Sweden
